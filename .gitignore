@@ -1,0 +1,14 @@
+# Node
+node_modules/
+npm-debug.log
+
+# Composer / PHP
+/vendor
+/.env
+Homestead.yaml
+Homestead.json
+/.idea
+/.vscode
+
+# OS
+.DS_Store
